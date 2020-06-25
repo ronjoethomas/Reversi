@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(436,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(436,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(442,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(442,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(447,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(447,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(33,42): warning C4101: 'choseCol': unreferenced local variable
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(33,33): warning C4101: 'choseRow': unreferenced local variable
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(33,14): warning C4101: 'row': unreferenced local variable
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(33,22): warning C4101: 'choseColor': unreferenced local variable
+C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Reversi\main.cpp(33,18): warning C4101: 'col': unreferenced local variable
+  Reversi.vcxproj -> C:\Users\ronth\OneDrive\Desktop\visual code\Reversi\Debug\Reversi.exe
