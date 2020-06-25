@@ -9,6 +9,9 @@ In this rendition of reversi, you are first prompted to enter the dimensions of 
 
 A 6x6 board starts off looking like this:
 
-
-
 ![Alt text](Reversi/reversi_pic.PNG?raw=true "Start game 6x6")
+
+As the game continues (with valid moves) it should look like this:
+
+![Alt text](Reversi/reversi_midgame_pic.PNG?raw=true "Start game 6x6")
+
