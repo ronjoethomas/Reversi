@@ -8,4 +8,4 @@ Following the rules you have to flip as many of the opponents pieces (White or B
 In this rendition of reversi, you are first prompted to enter the dimensions of the board you want to play on. Please choose an even number between 4-24. You are then prompted to choose the color the computer (AI) plays. Enter W or B for computer to play as White or Black respectively. NOTE: Black always goes first.
 
 A 6x6 board starts off looking like this:
-![alt text](https://github.com/[ronjoethomas]/[Reversi]/Reversi/[MASTER]/reversi_pic.jpg?raw=true)
+![alt text](https://github.com/ronjoethomas/Reversi/Reversi/MASTER/reversi_pic.jpg?raw=true)
