@@ -17,9 +17,11 @@ As the game continues (with valid moves) it should look like this:
 
 The game ends in a couple ways:
       1) If a player makes an invalid move (other play wins)
+      
       2) If both players are unable to make a valid move (the player with the most colours on the board wins)
+      
       3) If the board is full (the player with the most colours on the board wins)
 
-Here is one of the win cases:
+Here is one of the win cases (case 3):
 
 ![Alt text](Reversi/reversi_endgame_pic.PNG?raw=true "Start game 6x6")
