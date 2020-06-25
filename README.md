@@ -39,3 +39,4 @@ g++ main.o -o reversi-app -lsfml-graphics -lsfml-window -lsfml-system
 
 ./reversi-app
 
+Side Note: The logic for the game was intially written in C. Then I just used C++ in order to use the SFML library to make the GUI
